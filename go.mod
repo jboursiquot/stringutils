@@ -1,3 +1,3 @@
-module github.com/jboursiquot/stringutils
+module github.com/breakerbar/stringutils
 
 go 1.14
